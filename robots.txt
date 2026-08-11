@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-7tngxr.privatetalks.online/sitemap.xml
